@@ -1,0 +1,11 @@
+.header {
+    @apply w-full h-16 flex flex-row;
+}
+
+.header__logo {
+    @apply h-full;
+}
+
+.logo-img {
+    @apply h-full p-2;
+}
